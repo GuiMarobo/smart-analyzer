@@ -1,0 +1,201 @@
+description,category,priority,resolution_time_hours
+User reports access issue,Support,Low,29
+Application timeout observed,Integration,Low,55
+System slow during operation,Application,Low,65
+System slow during operation,Integration,Medium,29
+Operation fails under load,Infrastructure,Low,55
+Processing delay affecting users,Application,Medium,14
+User reports access issue,Support,Medium,34
+System slow during operation,Integration,Low,49
+User reports access issue,Integration,Medium,25
+User reports access issue,Application,Medium,11
+Service unavailable intermittently,Performance,Medium,59
+Processing delay affecting users,Support,Low,35
+User reports access issue,Application,High,32
+Application timeout observed,Support,High,72
+Service unavailable intermittently,Infrastructure,Low,5
+Processing delay affecting users,Infrastructure,Low,41
+Service unavailable intermittently,Performance,High,59
+Application timeout observed,Application,High,72
+Error occurs after login,Performance,High,52
+Processing delay affecting users,Application,High,64
+User reports access issue,Infrastructure,Low,21
+Unexpected system behavior reported,Performance,Medium,60
+Error occurs after login,Infrastructure,High,15
+Error occurs after login,Support,Low,38
+Unexpected system behavior reported,Infrastructure,High,34
+Application timeout observed,Infrastructure,High,39
+Service unavailable intermittently,Application,High,68
+System slow during operation,Performance,Low,15
+Processing delay affecting users,Support,Low,8
+Service unavailable intermittently,Infrastructure,Low,63
+User reports access issue,Integration,Low,17
+Operation fails under load,Application,Medium,68
+Unexpected system behavior reported,Integration,High,26
+Error occurs after login,Support,Medium,67
+Operation fails under load,Application,Low,44
+System slow during operation,Application,High,29
+System slow during operation,Infrastructure,Low,9
+System slow during operation,Infrastructure,High,31
+Error occurs after login,Application,High,17
+Operation fails under load,Performance,Medium,25
+User reports access issue,Performance,Medium,55
+Unexpected system behavior reported,Infrastructure,High,13
+System slow during operation,Support,Low,32
+Service unavailable intermittently,Performance,Low,55
+Application timeout observed,Application,Low,57
+User reports access issue,Integration,Low,12
+Service unavailable intermittently,Performance,Medium,28
+Unexpected system behavior reported,Application,Medium,1
+Unexpected system behavior reported,Performance,Medium,55
+Operation fails under load,Support,Low,8
+System slow during operation,Infrastructure,Low,62
+Application timeout observed,Integration,Low,24
+User reports access issue,Application,Medium,16
+Service unavailable intermittently,Infrastructure,High,11
+Unexpected system behavior reported,Integration,High,41
+Error occurs after login,Support,Low,34
+Unexpected system behavior reported,Support,Medium,41
+User reports access issue,Integration,High,13
+User reports access issue,Integration,Medium,17
+Processing delay affecting users,Application,Medium,37
+Application timeout observed,Integration,High,39
+System slow during operation,Integration,Medium,14
+Application timeout observed,Infrastructure,High,71
+Application timeout observed,Integration,Low,44
+Service unavailable intermittently,Support,High,63
+Error occurs after login,Infrastructure,Low,55
+Error occurs after login,Support,Low,34
+Application timeout observed,Integration,High,55
+System slow during operation,Application,High,5
+Processing delay affecting users,Application,Medium,17
+System slow during operation,Infrastructure,Medium,27
+Service unavailable intermittently,Support,High,53
+Application timeout observed,Application,Low,23
+Unexpected system behavior reported,Support,Medium,32
+Error occurs after login,Infrastructure,Medium,5
+Operation fails under load,Performance,Medium,40
+Service unavailable intermittently,Application,Medium,43
+Error occurs after login,Support,Medium,66
+Unexpected system behavior reported,Integration,Medium,4
+User reports access issue,Support,Low,34
+System slow during operation,Performance,Medium,41
+Unexpected system behavior reported,Integration,Low,50
+Service unavailable intermittently,Performance,Low,67
+Service unavailable intermittently,Infrastructure,High,43
+Processing delay affecting users,Infrastructure,High,39
+Error occurs after login,Support,Medium,38
+Application timeout observed,Performance,High,23
+Error occurs after login,Infrastructure,Medium,37
+Service unavailable intermittently,Integration,High,42
+Operation fails under load,Application,High,61
+Application timeout observed,Support,High,43
+User reports access issue,Application,High,40
+Service unavailable intermittently,Application,Low,6
+Service unavailable intermittently,Integration,Low,59
+Unexpected system behavior reported,Integration,Low,50
+Operation fails under load,Application,High,1
+User reports access issue,Application,Low,67
+Operation fails under load,Application,Low,59
+Application timeout observed,Integration,High,41
+Operation fails under load,Integration,Medium,71
+Operation fails under load,Performance,Medium,34
+Service unavailable intermittently,Support,High,63
+Service unavailable intermittently,Infrastructure,High,37
+Service unavailable intermittently,Support,High,11
+Application timeout observed,Performance,High,20
+Service unavailable intermittently,Performance,Medium,70
+Operation fails under load,Application,Medium,50
+System slow during operation,Integration,Medium,62
+System slow during operation,Support,Medium,54
+Service unavailable intermittently,Support,Medium,63
+System slow during operation,Performance,High,22
+Operation fails under load,Integration,High,4
+Unexpected system behavior reported,Infrastructure,Low,55
+Application timeout observed,Application,Low,34
+Unexpected system behavior reported,Performance,Medium,44
+Unexpected system behavior reported,Performance,Medium,11
+Operation fails under load,Integration,Low,45
+Service unavailable intermittently,Infrastructure,Low,32
+Service unavailable intermittently,Integration,Low,31
+Application timeout observed,Infrastructure,High,28
+Operation fails under load,Support,Low,15
+Application timeout observed,Infrastructure,High,4
+Error occurs after login,Performance,Medium,26
+User reports access issue,Application,Low,39
+User reports access issue,Integration,Low,45
+Unexpected system behavior reported,Infrastructure,High,44
+System slow during operation,Performance,Low,56
+Processing delay affecting users,Performance,High,20
+Unexpected system behavior reported,Integration,High,35
+Operation fails under load,Integration,Medium,42
+Service unavailable intermittently,Infrastructure,Medium,58
+Service unavailable intermittently,Integration,High,49
+Processing delay affecting users,Support,Low,63
+Service unavailable intermittently,Support,Medium,36
+Error occurs after login,Integration,Low,11
+Service unavailable intermittently,Performance,High,31
+Operation fails under load,Performance,Medium,3
+User reports access issue,Performance,High,32
+Error occurs after login,Support,Medium,71
+Processing delay affecting users,Integration,Medium,46
+Operation fails under load,Support,Low,16
+Service unavailable intermittently,Integration,High,24
+Service unavailable intermittently,Performance,Medium,68
+Error occurs after login,Application,Medium,30
+Processing delay affecting users,Infrastructure,High,69
+Application timeout observed,Infrastructure,High,38
+Application timeout observed,Performance,Low,2
+Error occurs after login,Performance,Medium,24
+System slow during operation,Performance,Low,9
+Unexpected system behavior reported,Integration,High,7
+Application timeout observed,Integration,Medium,11
+Service unavailable intermittently,Performance,High,29
+Unexpected system behavior reported,Performance,Medium,55
+Error occurs after login,Infrastructure,High,13
+Service unavailable intermittently,Support,High,11
+Application timeout observed,Integration,Low,21
+System slow during operation,Integration,Medium,38
+System slow during operation,Support,High,59
+User reports access issue,Support,High,26
+Unexpected system behavior reported,Application,High,20
+Error occurs after login,Infrastructure,Low,22
+Error occurs after login,Integration,Medium,57
+User reports access issue,Support,High,52
+Error occurs after login,Performance,Medium,11
+System slow during operation,Support,High,33
+System slow during operation,Integration,High,3
+Error occurs after login,Application,Medium,67
+Operation fails under load,Application,High,56
+Operation fails under load,Performance,Medium,53
+Processing delay affecting users,Infrastructure,Low,43
+Unexpected system behavior reported,Support,High,52
+System slow during operation,Support,Medium,42
+User reports access issue,Performance,High,1
+Operation fails under load,Application,High,47
+Operation fails under load,Infrastructure,Low,35
+Application timeout observed,Performance,High,63
+User reports access issue,Integration,Low,21
+Error occurs after login,Integration,Medium,12
+Service unavailable intermittently,Infrastructure,Medium,16
+Application timeout observed,Support,High,35
+Unexpected system behavior reported,Performance,Low,59
+Application timeout observed,Integration,High,18
+User reports access issue,Performance,Medium,65
+Error occurs after login,Support,High,39
+Operation fails under load,Performance,High,62
+Processing delay affecting users,Integration,Medium,59
+Processing delay affecting users,Application,High,50
+Service unavailable intermittently,Performance,Low,41
+Operation fails under load,Performance,Medium,20
+Operation fails under load,Application,High,43
+User reports access issue,Performance,Low,68
+Operation fails under load,Application,Medium,20
+User reports access issue,Support,Medium,51
+User reports access issue,Integration,Medium,41
+Operation fails under load,Infrastructure,High,9
+Service unavailable intermittently,Support,Low,12
+Unexpected system behavior reported,Infrastructure,Medium,22
+Error occurs after login,Infrastructure,Medium,8
+Error occurs after login,Performance,Low,32
+Unexpected system behavior reported,Application,Low,23
